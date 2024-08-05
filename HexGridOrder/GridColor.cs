@@ -1,0 +1,30 @@
+namespace Chameleon.Game.Scripts.Model
+{
+    public enum GridColor
+    {
+        Default,
+        Beige,
+        Brown,
+        Plum,
+        Blue,
+        NavyBlue,
+        Turqoise,
+        Gray,
+        Green,
+        LightGreen,
+        Teal,
+        Olive,
+        Orange,
+        Mango,
+        Yellow,
+        Pink,
+        LightPink,
+        Salmon,
+        Magenta,
+        Purple,
+        Mauve,
+        Indigo,
+        Red,
+        DarkRed                                                                                      
+    }
+}
